@@ -1,0 +1,74 @@
+body {
+    margin: auto;
+}
+
+/* #slidesec{
+    margin-top: -5%;
+    position: absolute;
+} */
+
+#searchi{
+    /* margin-top: 1%; */
+    /* height: 200px; */
+    position: absolute;
+    margin-left: 25%;
+    width: 70%;
+    margin-top: -20%;
+    /* border: 2px solid rgb(246, 246, 246); */
+    /* text-align: center; */
+    /* background-image: linear-gradient( 150deg, #025b8b 30%, rgb(224, 238, 251) 30%); */
+}
+.searchbarresult{
+    color:aliceblue
+}
+/* Header section end */
+
+.slidedive >img{
+    height: 700px;
+    width: 100%;
+}
+#fistslide{
+    position: absolute;
+    margin-top: -30%;
+    margin-left: 32%;
+}
+.colr{
+    color: white;
+}
+.homesearch{
+    height: 50px;
+    width: 70%;
+    text-align: center;
+    border-radius: 5px;
+    border: none;
+    /* border-color: rgb(0, 0, 0); */
+}
+
+
+
+.mains{
+    width:50%;
+    margin-left:13%;
+    /* display: inline-table; */
+    /* text-align: center; */
+}
+
+.cards{
+    /* width:15%; */
+    margin:2%;
+    /* height:330px; */
+    font-style: italic;
+    font-weight: 100;
+    font-size: 10px;
+    color: rgb(245, 4, 4);
+    /* border: 1px solid red; */
+    box-shadow: 10px 10px 10px 10px gray;
+    /* float:left; */
+}
+
+
+
+.card1{
+    border: 2px;
+    color: rgb(245, 4, 4);
+}

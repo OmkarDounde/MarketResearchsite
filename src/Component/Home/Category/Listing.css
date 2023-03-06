@@ -1,0 +1,239 @@
+.containermain {
+    width: 100%;
+}
+
+.latestr {
+    background-image: url(https://i.ibb.co/q9Dj0ck/lp.jpg);
+    height: 11%;
+    width: 100%;
+    /* margin-top: -1.4%; */
+}
+
+.latestr1 {
+    color: white;
+    font-size: large;
+    /* margin-top: -1%; */
+    margin-left: 10%;
+}
+
+.latestpub {
+    border-left: 8px solid red;
+    margin-left: 10%;
+    color: white;
+}
+
+
+.lpc {
+    width: 80%;
+    margin-left: 10%;
+    display: flex;
+    /* border: 2px solid red; */
+}
+
+.reportsec {
+    width: 75.5%;
+    margin-top: 1%;
+}
+
+/*report div starts*/
+
+.reportdiv {
+    height: 170px;
+    display: flex;
+    width: 100%;
+    margin-bottom: 2%;
+    box-shadow: 2px 2px 55px 2px #2125292e;
+}
+
+.reportimgg {
+    height: 160px;
+    width: 17%;
+    float: left;
+    margin-left: 0.5%;
+}
+
+.reportimgg>img {
+    height: 160px;
+    width: 100%;
+}
+
+.reporttile {
+    height: 200px;
+    width: 81%;
+    margin-left: 1.5%;
+    float: left;
+}
+
+.reporttitle {
+    font-family: Georgia, serif;
+    width: 100%;
+}
+
+.reporttitle> p {
+    text-align: left;
+    font-size: 15px;
+    color: black;
+}
+
+.reporttitle1 {
+    margin-top: 4%;
+    width: 100%;
+    font-family: Georgia, ;
+}
+
+.cattile1{
+    height: 40px;
+}
+.contentstyle{
+    color: #00254a;
+    font-size: large;
+    font-weight: 700;
+}
+.cattile2{
+    float: left;
+}
+.cattile3{
+    float: left;
+}
+.cattile4{
+    margin-left: 10%;
+    float: left;
+    margin-top: -0.3%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.catsecg {
+    width: 21%;
+    margin-top: 1%;
+    margin-left: 2.5%;
+    float: left;
+}
+
+.catseerch {
+    height: 50px;
+    width: 100%;
+}
+.catseerch>input{
+    height: 100%;
+    text-align: center;
+    width: 100%;
+}
+.catsec1 {
+    margin-top: 12%;
+    width: 100%;
+    /* box-shadow:2px 2px 2px 9px #00254a46; */
+
+}
+
+.catsec2 {
+    height: 40px;
+    width: 100%;
+    /* box-shadow:2px 2px 2px 7px #00254a1e; */
+    background-color: #00254a;
+    border: 2px solid #00254a;
+}
+.categ{
+    font-size: 20px;
+    font-weight: 500px;
+    margin-top: 2.1%;
+    margin-left: 5%;
+    color: white;
+}
+.catsec35 {
+    height:45px;
+    width: 100%;
+    box-shadow: 2px 2px 5px 2px #2125292e;
+    margin-top: 5%;
+    /* border-bottom: 1px solid #00254a; */
+}
+.cataaaa{
+    height: 30px;
+    width: 100%;
+    color: #140c7d;
+    /* border: 2px solid rgb(5, 6, 101) ; */
+}
+
+.Pharmacate1{
+    margin-left: 10%;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.pharmalogo1>img{
+    height: 20px;
+    width:20px;
+    margin-left: 15%;
+} 
+
+
+.catsecc23 {
+    height: 40px;
+    width: 100%;
+    margin-bottom: 5%;
+    box-shadow: 2px 2px 5px 2px #2125292e;
+    background-color: #00254a;
+    border: 1px solid #00254a;
+}
+.categ1{
+    font-size: 15px;
+    font-weight: 500px;
+    margin-top: 3.1%;
+    margin-left: 9%;
+    color: white;
+}
+.whydiv{
+    margin-top: 15%;
+    width: 100%;
+    /* box-shadow:2px -2px 2px 9px #00254a46; */
+}
+
+.whydiv1{
+
+    box-shadow:2px 2px 2px 2px #00254a;
+    /* border-bottom: 1px solid black; */
+}
+.whydiv2{
+    border-bottom: 1px solid black;
+    box-shadow:2px 2px 2px 2px #00254a;
+    
+}
+.whydiv3{
+    font-size: 18px;
+    font-weight: 700;
+    float: left;
+    margin-top: 3%;
+    margin-left: 5%;
+    width: 100%;
+    height: 25px;
+    color: #140c7d;
+}
+.whydiv4>p{
+    margin-left: 5%;
+    color:rgb(6, 1, 69);
+    text-align: left;
+    margin-bottom: 4%;
+}
+
+
+
+

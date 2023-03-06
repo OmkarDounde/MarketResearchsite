@@ -1,0 +1,111 @@
+#lreport{
+    /* border: 5px solid rgb(216, 6, 6);  */
+    /* height: 2200px; */
+    /* position: relative; */
+    width: 80%;
+    /* margin-top: 50%; */
+    margin-left: 10%;
+    margin-bottom: 2%;
+    text-align: center;
+    /* color: aliceblue; */
+    
+}
+#containermains{
+    /* border: 1px groove rgb(0, 0, 0); */
+    box-shadow: 10px 10px 10px #131313;
+    background-color: #2e2c2cdc;
+    /* height: 150px; */
+    width: 80%;
+    /* margin-bottom: 5%; */
+    margin-top: 2%;
+    color: aqua;
+}
+#re{
+    /* border: 2px solid rgb(0, 0, 0); */
+    /* height: 60px; */
+    width: 100%;
+    margin-top: 2%;
+    /* margin-left: 70%; */
+    margin-bottom: 1%;
+    color: #000000;
+}
+h6{
+    color: rgb(213, 10, 10);
+}
+
+#imgc {
+    /* height: 100px; */
+    width: 25%;
+    /* border: 1px solid black; */
+    float: left;
+}
+#imgc:hover{
+    transform: scale(1.1);
+}
+#imgc>img {
+    height: 120px;
+    width: 100%;
+}
+#lefside{
+    height:150px ;
+    width: 70%;
+    /* border-left: 2px solid red; */
+    /* border: 1px solid black; */
+    margin-left: 25%;
+    margin-top: 0%;
+    /* margin-bottom: 10%; */
+}
+.cat1{
+    /* border: 1px solid black;  */
+    width: 80%;
+    float: left;
+    color: aliceblue;
+}
+.redmore{
+    margin-left: 0%;
+    float: left;
+}
+
+
+.mainss{
+    width:50%;
+    /* height: 300px; */
+    position: absolute;
+    color: rgb(255, 255, 255);
+    /* display: flex; */
+    background-color: bisque;
+    margin-left:25%;
+    margin-top: -16%;
+    /* margin-bottom: 15%; */
+    /* height: 500px; */
+    /* border: 2px solid rgb(115, 255, 0); */
+    /* display: inline-table; */
+    /* text-align: center; */
+}
+
+.cardss{
+    /* width:15%; */
+    /* margin:5%; */
+    
+    /* height:330px; */
+    font-style: italic;
+    font-size: small;
+    /* border: 1px solid red; */
+    /* box-shadow: 10px 10px 10px 10px gray; */
+    /* float:left; */
+}
+
+.card > img{
+    height:150px;
+    width:100%;
+}
+
+.card1{
+    border: 2px;
+    color: black;
+}
+
+
+
+
+

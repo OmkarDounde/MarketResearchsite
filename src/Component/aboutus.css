@@ -1,0 +1,44 @@
+.containermain {
+    width: 100%;
+}
+
+.latestr {
+    background-image: url(https://i.ibb.co/q9Dj0ck/lp.jpg);
+    height: 11%;
+    width: 100%;
+}
+
+.latestr1 {
+    color: white;
+    font-size: large;
+    margin-left: 10%;
+}
+
+.latestpub {
+    border-left: 8px solid red;
+    margin-left: 10%;
+    color: white;
+
+}
+.aboutus{
+    /* height: 100px; */
+    width:80%;
+    margin-left: 10%;
+    /* border: 2px solid red; */
+
+}
+.aboutus1{
+    /* height: 1000px; */
+    width:80%;
+    margin-top: 2%;
+    box-shadow: 2px 2px 8px 10px;
+    margin-left: 10%;
+    /* border: 2px solid red; */
+}
+.aboutus2{
+    height: 50px;
+    width:100%;
+    /* margin-left: 10%; */
+    text-align: center;
+    /* border: 2px solid red; */
+}

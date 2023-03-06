@@ -1,0 +1,405 @@
+
+/* body{
+    background-color: rgb(245, 11, 11);
+} */
+
+
+
+.containermain {
+    width: 100%;
+    
+}
+
+.latestr {
+    background-image: url(https://i.ibb.co/q9Dj0ck/lp.jpg);
+    height: 11%;
+    width: 100%;
+    /* margin-top: -1.4%; */
+}
+
+.latestr1 {
+    color: white;
+    font-size: large;
+    /* margin-top: -1%; */
+    margin-left: 10%;
+}
+
+.latestpub {
+    border-left: 8px solid red;
+    margin-left: 10%;
+    color: white;
+}
+
+
+
+.container{
+    /* height: 500px; */
+    width: 100%;
+border: 2px solid red;
+}
+
+
+header{
+    height: 80px;
+    width: 100%;
+    margin-bottom: 1%;
+    /* border: 2px solid red; */
+}
+.headcontain {
+    /* height: 100px; */
+    width: 100%;
+    /* border: 2px solid rgb(0, 0, 0); */
+    /* position: fixed; */
+    background-color: rgba(85, 11, 245, 0.337);
+}
+
+#logo{
+    /* height: 500px; */
+    width: 20%;
+    /* border: 2px solid rgb(0, 0, 0); */
+    float: left;
+    margin-left: 5%;
+}
+#logo>img{
+    height:60px ;
+    width: 100%;
+    margin-top: 1.5%;
+}
+
+.topbar {
+    /* height: 50px; */
+    width: 60%;
+    margin-left: 40%;
+    color: aliceblue;
+    /* border: 2px solid rgb(255, 0, 93); */
+}
+
+.botbar {
+    /* height: 50px; */
+    width: 70%;
+    display: flex;
+    margin-left: 30%;
+    margin-top: 1%;
+    /* border: 2px solid rgb(0, 0, 255); */
+}
+
+.home {
+    /* height: 50px; */
+    /* width: 60px; */
+    margin-left: 4%;
+    /* border: 2px solid red; */
+    float: left;
+    font-size: large;
+    font-weight: bolder;
+    color: aliceblue;
+}
+
+.home>input {
+    height: 30px;
+    width: 175px;
+    /* border: 2px solid rgb(0, 0, 0); */
+    border-radius: 15px;
+    text-align: center;
+}
+
+.tsearch {
+    /* margin-left: 5%; */
+    /* border: 2px solid red; */
+    float: left;
+    /* font-size: x-large; */
+    /* font-weight: bolder; */
+    margin-left: 1%;
+    /* margin-top:0.4%; */
+}
+
+.tsearch>button {
+    height: 30px;
+    width: 80px;
+    border-radius: 15px;
+}
+
+#mainformbody{
+    /* border: 2px solid red;  */
+    width: 90%;
+    display: flex;
+    margin-top: 1%;
+    margin-left: 5%;
+    background-color: rgb(251, 241, 241);
+}
+#formbody{
+    margin-top: 2%;
+    height: 800px;
+    width: 40%;
+    /* border: 2px solid red; */
+    margin-left: 5%;
+    background-color: rgba(5, 3, 43, 0.949);
+    box-shadow: 1px 1px 5px 5px;
+}
+.formtitle{
+    text-align: center;
+    /* height: 50px; */
+    /* width: 100%; */
+    margin-top: 1%;
+    color: blanchedalmond;
+    margin-bottom: 3%;
+    /* border: 2px solid red; */
+}
+.formtile{
+    /* height: 40px; */
+    width: 90%;
+    margin-left: 5%;
+    margin-bottom: 10%;
+    /* margin-top: 10%; */
+    /* border: 2px solid red; */
+}
+.formimg{
+    height: 30px;
+    width: 8%;
+    background-color: rgb(238, 229, 229);
+    border: 1px solid rgb(83, 79, 79);
+    float: left;
+    border-radius: 5px;
+}
+.formimg>img{
+    height: 70%;
+    width: 50%;
+    margin-left: 25%;
+    /* margin-top: 0%; */
+    margin-bottom: 10%;
+}
+.forminp{
+    height: 30px;
+    width: 91%;
+    /* border: 2px solid rgb(8, 1, 1); */
+    float: left;
+    margin-left: 1%;
+}
+#forminput > input{
+    height: 100%;
+    width: 100%;
+    border-right: radius;
+    background-color: rgb(238, 229, 229);
+    /* border-radius: 5px; */
+    border-radius: 5px;
+    border: 1px solid rgb(8, 1, 1);
+    float: left;
+    /* text-align: center; */
+}
+#btn>button{
+    text-align: center;
+    margin-left: 28%;
+    margin-top: 10%;
+    height: 60px;
+    width: 40%;
+    border-radius: 5px;
+    background-color: rgb(37, 202, 32);
+}
+#formleftside{
+    margin-top: 1.9%;
+    /* height: 800px; */
+    width: 45%;
+    /* box-shadow: 1px 1px 5px 5px; */
+    margin-left: 5%;
+    /* background-color: rgba(159, 149, 149, 0.229); */
+    float: left;
+}
+#samplereportname{
+    /* border: 2px solid red; */
+    box-shadow: 1px 1px 5px 5px;
+    background-color: rgba(188, 180, 180, 0.173);
+    /* box-shadow: 1px 1px 5px 5px; */
+}
+.reporttle{
+    margin-left: 1%;
+}
+.reporttle>img{
+    height: 15px;
+    width: 15px;
+}
+.site{
+    margin-left: 1%;
+    font-weight: bolder;
+}
+.formreportcontent{
+    margin-top: 1%;
+    height: 150px;
+    width: 100%;
+
+    /* border: 2px solid red; */
+}
+
+#formreportcontent{
+    margin-left: 4%;
+    text-align: left;
+}
+#formbenifits{
+    /* border: 2px solid red; */
+    box-shadow: 1px 1px 5px 5px;
+    margin-top: 4%;
+    /* margin-left: 1.5%; */
+}
+.formbenifit1{
+    /* box-shadow: 1px 1px 5px 5px; */
+    /* margin-top: 3%; */
+    /* margin-left: 1%; */
+    height: 50px;
+    
+    margin-right: 1%;
+    margin-bottom: 2%;
+    /* border: 2px solid red; */
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+
+.ben1{
+    /* border: 2px solid black; */
+    height: 50px;
+    margin-left: 10%;
+    position: absolute;
+    margin-top:1%;
+}
+.ben1>img{
+    height: 20px;
+    width: 20px;
+}
+.ben03{
+    margin-top:80%;
+}
+.formbenifit2{
+    /* height: 200px; */
+    width: 98%;
+    /* box-shadow: 0px 02px 02px 02px; */
+    border-bottom: 1px solid red;
+    /* border: 1px solid rgb(12, 12, 12); */
+    display: flex;
+    /* margin-left: 1%; */
+    margin-right: 1%;
+    margin-bottom: 2%;
+}
+.ben01{
+    height: 120px;
+    width: 20%;
+    float: left;
+    /* border: 1px solid red */
+}
+.ben01>img{
+    margin-top: 35%;
+    margin-left: 25%;
+    height: 30px;
+    width: 30%;
+}
+.ben02{
+    height: 100px;
+    float: left;
+    width: 80%;
+    /* margin-left: 0%; */
+    /* border: 1px solid red */
+}
+.ben03{
+    margin-top: 3%;
+}
+
+.ben14{
+    text-align: left;
+}
+
+
+
+.thankyou{
+    border: 2px solid rgb(0, 255, 17);
+    height: 100px;
+    width: 100%;
+}
+
+
+.rname{
+    width: 300px;
+    /* margin-left: 100px; */
+    /* border: 2px solid rgb(0, 255, 17); */
+
+}
+.invoice{
+    text-align: center;
+}
+
+.convieworder{
+    border: none;
+    width: 50%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    box-shadow: 2px 2px 8px 2px;
+}
+
+.table{
+    border: 2px solid rgb(0, 98, 255);
+}
+
+.hrt{
+       /* margin-left: 100px; */
+       /* margin-right: 500px; */
+    color: rgb(0, 0, 0);
+    border: 4px solid red
+}
+
+
+.strong{
+    color: rgb(226, 43, 43);
+}
+
+.samplepage{
+    height: 200px;
+    width: 100%;
+    /* border: 1px solid red; */
+    /* margin-bottom: 5%; */
+    display: flex;
+}
+.samplepage1{
+    text-align: left;
+    height: 200px;
+    /* width: 50%; */
+    margin-bottom: 5%;
+    margin-left: 50%;
+    /* border: 1px solid red; */
+}
+/* .samplepage2{
+    height: 200px;
+    width: 20%;
+    margin-left: 10%;
+} */
+
+.reportrunning{
+    /* height: 40px; */
+    margin-top: 2%;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    background-image: linear-gradient(25deg, #d51111 17%, rgba(129, 137, 145, 0.363) 5%);
+    /* border: 1px solid black; */
+}
+.reportrunning1{  
+    width: 20%;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    font-size: 18px;
+    background-color: #d51111;
+    border-right: 2px solid rgb(240, 17, 17);
+    
+}
+
+
+ /* Makes the animation pause on hover */
+ .moving-text:hover{
+    animation-play-state: paused;
+}
+
+/* The animation */
+@keyframes marquee{
+    0%{transform: translateX(100%);}
+    100%{transform: translateX(-100%);}
+}
+
+/* media query to enable animation for only those who want it */
+@media (prefers-reduced-motion: no-preference) {
+    .moving-text{
+        animation: marquee 15s linear infinite;
+    }
+}

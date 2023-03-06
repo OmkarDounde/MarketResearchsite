@@ -1,0 +1,129 @@
+#services{
+    height: 400px;
+    width: 100%;
+    /* background-color: rgb(231, 235, 232); */
+    /* background-color: rgb(172, 235, 13); */
+    /* border: 2px solid rgb(0, 0, 0); */
+    margin-top: 5%;
+    margin-bottom: 8%;
+}
+
+.image1>img{
+    width:320px;
+    height:200px
+}
+
+
+.pp{
+    margin-bottom: 8px; 
+    letter-spacing: -1px;
+    font-weight: 700;
+    font-style: normal;
+    text-align: center;
+    color: rgb(0, 0, 0); 
+    margin-top: 5%;
+}
+.ppp{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.pimg > img{
+    width:30px;
+    height:14px;
+}
+.vav{
+    background-color: rgb(250, 244, 244);
+}
+
+
+
+@media screen and (max-width:1000px){
+    
+    #services{
+        margin-top: 15%;
+        margin-bottom: 20%;
+    }
+    
+}
+@media screen and (max-width:900px){
+   
+    
+}
+
+@media screen and (max-width:800px){
+   
+    
+    .maintab{
+        /* border: 2px solid red; */
+        display: flex;
+    }
+    #services{
+        margin-top: 15%;
+        margin-bottom: 100%;
+    }
+    .gt-service-text{
+        /* border: 2px solid red; */
+        font-size:smaller;
+        font-weight: 100;
+        width: 50%;
+        /* float: left; */
+    }
+    .image1{
+        height: 50%;
+        /* border: 2px solid red; */
+       width: 50%;
+       margin-top: -74%;
+       margin-left: 50%;
+    
+        /* float: left; */
+    }
+    .image1>img{
+        width:250px;
+        height:150px
+    }
+    #syndicatedResearch-tab{
+        margin-left: 0%;
+    }
+ 
+    
+     
+ }
+
+
+
+
+@media screen and (max-width:700px){
+   
+.maintab{
+    /* border: 2px solid red; */
+    display: flex;
+}
+#services{
+    margin-top: 15%;
+    margin-bottom: 100%;
+}
+.gt-service-text{
+    /* border: 2px solid red; */
+    font-size:smaller;
+    font-weight: 100;
+    width: 50%;
+    /* float: left; */
+}
+.image1{
+    height: 50%;
+    /* border: 2px solid red; */
+   width: 50%;
+   margin-top: -74%;
+   margin-left: 50%;
+
+    /* float: left; */
+}
+.image1>img{
+    width:250px;
+    height:150px
+}
+#syndicatedResearch-tab{
+    margin-left: 0%;
+}
+
+}

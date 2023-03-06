@@ -1,0 +1,195 @@
+
+.container{
+    /* border: 2pxs solid red; */
+    text-align: center;
+}
+.contain{
+    border: none;
+}
+.mainblok{
+        /* border: 0.0003px solid red; */
+        box-shadow: 2px 5px 8px 2px rgba(255, 0, 0, 0.377);
+
+}
+.mainblog{
+    height: 400px;
+    width: 70%;
+    box-shadow: 2px 5px 5px 2px rgba(255, 0, 0, 0.955);
+    margin-left: 15%;
+    /* border: 2px solid red; */
+    display: flex;
+    margin-top: 3%;
+}
+.blogimg{
+    height: 400px;
+    width: 30%;
+    /* margin-top: -2%; */
+    margin-left: 1%;
+    box-shadow: 2px 2px 2px 2px red;
+    /* border: 2px solid rgb(47, 255, 0); */
+
+}
+.blogimg>img{
+    height: 300px;
+    margin-top: -8%; 
+    margin-top: -8%; 
+    width: 100%;
+    /* border: 2px solid rgb(47, 255, 0); */
+
+}
+.blogcontent{
+    height: 350px;
+    width: 70%;
+    margin-left:5%;
+    /* box-shadow: 2px 2px 2px 2px red; */
+
+    /* border: 2px solid rgb(255, 0, 195); */
+}
+.contentdiv{
+    margin-left: 5%;
+    margin-top:5%;
+    height: 80%;
+    width: 95%;
+    text-align: left;
+    /* border: 2px solid rgb(55, 0, 255); */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.hrs{
+    margin-left: 45%; 
+    margin-right: 45%;
+    color: rgb(0, 0, 0);
+    border: 2px solid 
+}
+.hrtt{
+    margin-left: 40%; 
+    margin-right: 40%;
+    color: rgb(0, 0, 0);
+    border: 2px solid 
+}
+
+#Categor{
+    /* height: 500px; */
+    width: 100%;
+    margin-bottom: 5%;
+    /* background-color: hwb(80deg 7% 92%); */
+    /* border: 2px solid rgb(246, 12, 12); */
+    color: rgb(6, 6, 6);
+}
+
+
+.catdiv{
+    /* height: 200px; */
+    /* width: 350px; */
+    /* border: 2px solid rgb(0, 0, 0); */
+    /* float: left; */
+    color: rgb(6, 6, 6);
+    position: relative;
+}
+.cate{
+    height: 200px;
+    width: 350px;
+    /* border: 2px solid rgb(0, 0, 0); */
+    display: inline-block;
+    margin-left: 1.5%;
+    margin-top: 1.5%;
+    position: relative;
+    
+    box-shadow:10px 10px 10px  #c3bebe;
+}
+
+p{
+    text-align: center;
+    color: rgb(6, 6, 6);
+    /* color: rgb(0, 0, 0); */
+}
+h1{
+    text-align: center;
+    /* color: rgb(0, 0, 0); */
+    font-weight: 400;
+    font-style: normal;
+}
+h2{
+    /* font-weight: 200px; */
+    font-size: large;
+    /* margin-top: -1% ; */
+    
+}
+
+
+.cate > img{
+    height: 200px;
+    width: 350px;
+}
+.incat{
+    height: 60px;
+    width: 349px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-top: 40%;
+    position: absolute; /* Position the background text */
+    bottom: 0%; /* At the bottom. Use top:0 to append it to the top */
+    background: rgb(0, 0, 0); /* Fallback color */
+    background: rgba(2, 2, 2, 0.337); /* Black background with 0.5 opacity */
+    color: #d0acac; /* Grey text */
+    width: 100%; /* Full width */
+    padding: 20px; /* Some padding */
+    text-align: center;
+}
+.cate > img:hover {
+    transform: scale(1.1);
+}
+.incat:hover {
+    background-color: rgba(4, 12, 249, 0.585);
+    color: black;
+    transform: scale(1.1);
+}
+
+
+   
+    @media screen and (max-width:800px){
+        body{
+            background-color: rgb(145, 18, 162);
+        }
+    }
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

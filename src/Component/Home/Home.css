@@ -1,0 +1,411 @@
+#lreport{
+    /* border: 2px solid rgb(216, 6, 6);  */
+    /* height: 2200px; */
+    /* position: relative; */
+    width: 80%;
+    /* box-shadow: 10px 10px 10px #131313; */
+
+    /* margin-top: 50%; */
+    margin-left: 10%;
+    margin-bottom: 2%;
+    text-align: center;
+    /* color: aliceblue; */
+    
+}
+#containermain{
+    border: 1px groove rgb(0, 0, 0);
+    box-shadow: 0px 2px 2px 3px#131313;
+    background-color: white;
+    height: 150px;
+    /* margin-bottom: 5%; */
+    margin-top: 2%;
+    color: rgb(0, 0, 0);
+}
+/* .freport{
+        box-shadow: 2px 2px 2px 2px#131313;
+    border: 2px solid rgb(216, 6, 6); 
+
+} */
+.hrt2{
+    margin-left: 40%; 
+    margin-right: 40%;
+    color: rgb(0, 0, 0);
+    border: 2px solid 
+}
+
+#re{
+    /* border: 2px solid rgb(0, 0, 0); */
+    /* height: 60px; */
+    width: 100%;
+    margin-top: 2%;
+    /* margin-left: 70%; */
+    margin-bottom: 1%;
+    color: #000000;
+}
+.rehead{
+    color: rgb(0, 0, 0);
+    margin-top: 2%;
+}
+
+#imgc {
+    /* height: 100px; */
+    width: 25%;
+    /* border: 1px solid black; */
+    float: left;
+}
+#imgc:hover{
+    transform: scale(1.1);
+}
+#imgc>img {
+    height: 120px;
+    width: 100%;
+}
+#lefside{
+    height:150px ;
+    width: 70%;
+    /* border-left: 2px solid red; */
+    /* border: 1px solid black; */
+    margin-left: 25%;
+    margin-top: 0%;
+    /* margin-bottom: 10%; */
+}
+.cat15{
+    /* border: 1px solid black;  */
+    width: 80%;
+    float: left;
+    color: rgb(0, 0, 0);
+}
+.redmore{
+    margin-left: 0%;
+    float: left;
+}
+
+
+@media screen and (max-width:900px){
+    
+   
+
+   #lreport{
+    /* border: 2px solid rgb(216, 6, 6);  */
+    /* height: 2200px; */
+    /* position: relative; */
+    width: 80%;
+    /* box-shadow: 10px 10px 10px #131313; */
+
+    /* margin-top: 25%; */
+    margin-left: 10%;
+    margin-bottom: 2%;
+    text-align: center;
+    /* color: aliceblue; */
+    
+}
+
+
+#containermain{
+    border: 1px groove rgb(0, 0, 0);
+    box-shadow: 0px 2px 2px 3px#131313;
+    background-color: white;
+    height: 150px;
+    /* margin-bottom: 5%; */
+    margin-top: 2%;
+    color: rgb(0, 0, 0);
+}
+/* .freport{
+        box-shadow: 2px 2px 2px 2px#131313;
+    border: 2px solid rgb(216, 6, 6); 
+
+} */
+.hrt2{
+    margin-left: 40%; 
+    margin-right: 40%;
+    color: rgb(0, 0, 0);
+    border: 2px solid 
+}
+
+#re{
+    /* border: 2px solid rgb(0, 0, 0); */
+    /* height: 60px; */
+    width: 100%;
+    margin-top: 2%;
+    /* margin-left: 70%; */
+    margin-bottom: 1%;
+    color: #000000;
+}
+.rehead{
+    color: rgb(0, 0, 0);
+    margin-top: 2%;
+    font-size: 13px;
+    text-align: left;
+}
+
+#imgc {
+    /* height: 100px; */
+    width: 25%;
+    /* border: 1px solid black; */
+    float: left;
+}
+#imgc:hover{
+    transform: scale(1.1);
+}
+#imgc>img {
+    height: 120px;
+    width: 100%;
+}
+#lefside{
+    height:150px ;
+    width: 70%;
+    /* border-left: 2px solid red; */
+    /* border: 1px solid black; */
+    margin-left: 25%;
+    margin-top: 0%;
+    /* margin-bottom: 10%; */
+}
+.cat15{
+    /* border: 1px solid black;  */
+    width: 80%;
+    float: left;
+    font-size: 15px;
+    color: rgb(0, 0, 0);
+}
+.redmore{
+    /* margin-left: 10%; */
+    margin-top: 5%;
+    float: left;
+}
+.redmore>button{
+    height: 30px;
+    width: 70px;
+    text-align: center;
+    font-size: 10px;
+}
+  
+ } 
+
+
+ @media screen and (max-width:800px){
+    
+ 
+ 
+    #lreport{
+     /* border: 2px solid rgb(216, 6, 6);  */
+     /* height: 2200px; */
+     /* position: relative; */
+     width: 80%;
+     /* box-shadow: 10px 10px 10px #131313; */
+ 
+     margin-top: 25%;
+     margin-left: 10%;
+     margin-bottom: 2%;
+     text-align: center;
+     /* color: aliceblue; */
+     
+ }
+ 
+ 
+#containermain{
+    border: 1px groove rgb(0, 0, 0);
+    box-shadow: 0px 2px 2px 3px#131313;
+    background-color: white;
+    height: 150px;
+    /* margin-bottom: 5%; */
+    margin-top: 2%;
+    color: rgb(0, 0, 0);
+}
+/* .freport{
+        box-shadow: 2px 2px 2px 2px#131313;
+    border: 2px solid rgb(216, 6, 6); 
+
+} */
+.hrt2{
+    margin-left: 40%; 
+    margin-right: 40%;
+    color: rgb(0, 0, 0);
+    border: 2px solid 
+}
+
+#re{
+    /* border: 2px solid rgb(0, 0, 0); */
+    /* height: 60px; */
+    width: 100%;
+    margin-top: 2%;
+    /* margin-left: 70%; */
+    margin-bottom: 1%;
+    color: #000000;
+}
+.rehead{
+    color: rgb(0, 0, 0);
+    margin-top: 2%;
+    font-size: 13px;
+}
+
+#imgc {
+    /* height: 100px; */
+    width: 25%;
+    /* border: 1px solid black; */
+    float: left;
+}
+#imgc:hover{
+    transform: scale(1.1);
+}
+#imgc>img {
+    height: 120px;
+    width: 100%;
+}
+#lefside{
+    height:150px ;
+    width: 70%;
+    /* border-left: 2px solid red; */
+    /* border: 1px solid black; */
+    margin-left: 25%;
+    margin-top: 0%;
+    /* margin-bottom: 10%; */
+}
+.cat15{
+    /* border: 1px solid black;  */
+    width: 80%;
+    float: left;
+    font-size: 8px;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+.redmore{
+    /* margin-left: 10%; */
+    margin-top: 10%;
+    float: left;
+}
+.redmore>button{
+    height: 20px;
+    width: 50px;
+    text-align: center;
+    font-size: 8px;
+}
+   
+  } 
+
+  
+ @media screen and (max-width:700px){
+    
+   
+ 
+    #lreport{
+     /* border: 2px solid rgb(216, 6, 6);  */
+     /* height: 2200px; */
+     /* position: relative; */
+     width: 80%;
+     /* box-shadow: 10px 10px 10px #131313; */
+ 
+     margin-top: -45%;
+     margin-left: 10%;
+     margin-bottom: 2%;
+     text-align: center;
+     /* color: aliceblue; */
+     
+ }
+ 
+ 
+   
+  } 
+
+ 
+ 
+   
+ 
+
+  @media screen and (max-width:600px){
+    
+  
+ 
+    #lreport{
+     /* border: 2px solid rgb(216, 6, 6);  */
+     /* height: 2200px; */
+     /* position: relative; */
+     width: 80%;
+     /* box-shadow: 10px 10px 10px #131313; */
+ 
+     margin-top: -25%;
+     margin-left: 10%;
+     margin-bottom: 2%;
+     text-align: center;
+     /* color: aliceblue; */
+     
+ }
+ 
+ 
+#containermain{
+    border: 1px groove rgb(0, 0, 0);
+    box-shadow: 0px 2px 2px 3px#131313;
+    background-color: white;
+    height: 150px;
+    /* margin-bottom: 5%; */
+    margin-top: 2%;
+    color: rgb(0, 0, 0);
+}
+/* .freport{
+        box-shadow: 2px 2px 2px 2px#131313;
+    border: 2px solid rgb(216, 6, 6); 
+
+} */
+.hrt2{
+    margin-left: 40%; 
+    margin-right: 40%;
+    color: rgb(0, 0, 0);
+    border: 2px solid 
+}
+
+#re{
+    /* border: 2px solid rgb(0, 0, 0); */
+    /* height: 60px; */
+    width: 100%;
+    margin-top: 2%;
+    /* margin-left: 70%; */
+    margin-bottom: 1%;
+    color: #000000;
+}
+.rehead{
+    color: rgb(0, 0, 0);
+    margin-top: 2%;
+    font-size: 10px;
+}
+
+#imgc {
+    /* height: 100px; */
+    width: 25%;
+    /* border: 1px solid black; */
+    float: left;
+}
+#imgc:hover{
+    transform: scale(1.1);
+}
+#imgc>img {
+    height: 120px;
+    width: 100%;
+}
+#lefside{
+    height:150px ;
+    width: 70%;
+    /* border-left: 2px solid red; */
+    /* border: 1px solid black; */
+    margin-left: 25%;
+    margin-top: 0%;
+    /* margin-bottom: 10%; */
+}
+.cat15{
+    /* border: 1px solid black;  */
+    width: 80%;
+    float: left;
+    font-size: 10px;
+    color: rgb(0, 0, 0);
+}
+.redmore{
+    /* margin-left: 10%; */
+    margin-top: 15%;
+    float: left;
+}
+.redmore>button{
+    height: 20px;
+    width: 50px;
+    text-align: center;
+    font-size: 8px;
+}
+   
+  } 
